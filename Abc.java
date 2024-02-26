@@ -4,5 +4,6 @@ public class Abc
 	{
 		System.out.println("Have a good days");
 		System.out.println("Jai ram");
+		system.out.println("Jai Shyam");
 	}
 }
